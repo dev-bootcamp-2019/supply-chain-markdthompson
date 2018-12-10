@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/markdthompson/supply-chain-markdthompson.svg?branch=master)](https://travis-ci.org/markdthompson/supply-chain-markdthompson)
 
 # Supply Chain Exercise
 
